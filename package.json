@@ -1,0 +1,23 @@
+{
+  "name": "thera-left-bar",
+  "main": "./lib/main",
+  "version": "0.2.1",
+  "description": "When Atom finishes loading, it will dispatch.",
+  "keywords": [],
+  "repository": "https://github.com/aki77/atom-auto-run",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.0"
+  },
+  "providedServices": {
+    "auto-run": {
+      "description": "",
+      "versions": {
+        "0.1.0": "provideAutoRun"
+      }
+    }
+  }
+}
