@@ -1,7 +1,7 @@
 {
   "name": "thera-left-bar",
   "main": "./lib/main",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "When Atom finishes loading, it will dispatch.",
   "keywords": [],
   "repository": "https://github.com/aki77/atom-auto-run",
